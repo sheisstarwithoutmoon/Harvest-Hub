@@ -1,10 +1,10 @@
-/*import 'package:chat_gpt_sdk/chat_gpt_sdk.dart';
-import 'package:dash_chat_2/dash_chat_2.dart';
+//import 'package:chat_gpt_sdk/chat_gpt_sdk.dart';
+//import 'package:dash_chat_2/dash_chat_2.dart';
 import 'package:flutter/material.dart';
 // ignore: unused_import
 import '../../../../../const.dart';
 
-class ChatPage extends StatefulWidget {
+/*class ChatPage extends StatefulWidget {
   const ChatPage({super.key});
 
   @override
@@ -107,3 +107,19 @@ class _ChatPageState extends State<ChatPage> {
     _lastRequestTime = DateTime.now();
   }
 }*/
+
+class ChatScreen extends StatefulWidget {
+  const ChatScreen({super.key}); // Named key parameter
+
+  @override
+  State<ChatScreen> createState() => _ChatScreenState();
+}
+
+class _ChatScreenState extends State<ChatScreen>
+{
+  @override
+  Widget build(BuildContext context) {
+    return const Scaffold(
+    );
+  }
+}
