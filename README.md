@@ -20,5 +20,21 @@ Download Harvest Hub today and experience a boost in your farm's efficiency and 
 ## Screenshots
 Screenshot of our app:
 ### Welcome Screen
+![ss1](https://github.com/sheisstarwithoutmoon/Harvest-Hub/assets/145616414/d9ec8a03-c72a-4e07-a60c-9c352517df80)
 
+### Home Screen
+![ss2](https://github.com/sheisstarwithoutmoon/Harvest-Hub/assets/145616414/63f0635a-8ae9-4d43-a503-1be8481234f0)
 
+### Trending Products
+![ss5](https://github.com/sheisstarwithoutmoon/Harvest-Hub/assets/145616414/d2c6393d-efaa-4477-91ac-c4b4299c2fa3)
+
+### Service Screen
+![ss3](https://github.com/sheisstarwithoutmoon/Harvest-Hub/assets/145616414/d5e0f4a6-f022-4ae0-be53-5b5f82fae233)
+
+### Cart
+![ss4](https://github.com/sheisstarwithoutmoon/Harvest-Hub/assets/145616414/22fb34c9-fb25-443c-82d8-0c1e63596454)
+
+### Tracking nearest equipment location
+![ss6](https://github.com/sheisstarwithoutmoon/Harvest-Hub/assets/145616414/4d61b034-ecbf-48e4-a5da-87ce33691f83)
+
+### Multilingual
