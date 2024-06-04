@@ -5,4 +5,4 @@ Struggling with managing resources on your farm? Harvest Hub is here to help! Ou
 
 ## 📲 Download APK File
 Download Harvest Hub today and experience a boost in your farm's efficiency and productivity!
-[Download App!]().
+[Download App!](https://github.com/sheisstarwithoutmoon/Harvest-Hub/blob/main/app-release.apk).
