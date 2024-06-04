@@ -19,4 +19,6 @@ Download Harvest Hub today and experience a boost in your farm's efficiency and 
 
 ## Screenshots
 Screenshot of our app:
-![Alt text](ss1.jpg)
+### Welcome Screen
+
+
