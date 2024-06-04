@@ -18,3 +18,5 @@ Download Harvest Hub today and experience a boost in your farm's efficiency and 
 - 🏥🐄24/7 Expert Consultation: Farmers can consult with agricultural experts and veterinarians for guidance on crop management and livestock health.
 
 ## Screenshots
+Screenshot of our app:
+![Alt text](ss1.jpg)
