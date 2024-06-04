@@ -1,0 +1,61 @@
+import 'package:flutter/material.dart';
+import '../../../../../../core/utils/assets_data.dart';
+import 'package:flutter_gen/gen_l10n/app_localizations.dart';
+import 'package:agriplant/map_screen.dart';
+
+class MapButton extends StatefulWidget {
+  const MapButton({
+    super.key,
+  });
+
+  @override
+  State<MapButton> createState() => _MapButtonState();
+}
+
+class _MapButtonState extends State<MapButton> {
+  @override
+  Widget build(BuildContext context) {
+    return Padding(
+      padding: const EdgeInsets.only(bottom: 20),
+      child: SizedBox(
+        height: 50,
+        width: double.infinity,
+        child: Card(
+          color: Colors.blue.shade100,
+          shadowColor: Colors.green.shade50,
+          elevation: 0.1,
+          child: Row(
+            crossAxisAlignment: CrossAxisAlignment.center,
+            children: [
+              Expanded(
+                child: FilledButton(
+                  style: ElevatedButton.styleFrom(
+                    padding: const EdgeInsets.symmetric(
+                      horizontal: 12,
+                      vertical: 0,
+                    ),
+                    foregroundColor: Colors.white,
+                    backgroundColor: Colors.green,
+                    shape: RoundedRectangleBorder(
+                      borderRadius: BorderRadius.circular(12.0),
+                    ),
+                  ),
+                  onPressed: () => Navigator.push(
+                    context,
+                    MaterialPageRoute(builder: (context) => const MapScreen()),
+                  ),
+                  child: Text(
+                    "Locate nearest Services",
+                    style: TextStyle(
+                      fontWeight: FontWeight.bold,
+                    ),
+                  ),
+                ),
+              ),
+            ],
+          ),
+        ),
+      ),
+    );
+  }
+}
