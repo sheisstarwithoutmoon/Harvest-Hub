@@ -20,25 +20,25 @@ Download Harvest Hub today and experience a boost in your farm's efficiency and 
 ## Screenshots
 Screenshot of our app:
 ## Welcome Screen  
-<img src="https://github.com/sheisstarwithoutmoon/Harvest-Hub/assets/145616414/d9ec8a03-c72a-4e07-a60c-9c352517df80" width="500"/>
+<img src="https://github.com/sheisstarwithoutmoon/Harvest-Hub/assets/145616414/d9ec8a03-c72a-4e07-a60c-9c352517df80" width="300"/>
 
 ## Home Screen  
-<img src="https://github.com/sheisstarwithoutmoon/Harvest-Hub/assets/145616414/63f0635a-8ae9-4d43-a503-1be8481234f0" width="500"/>
+<img src="https://github.com/sheisstarwithoutmoon/Harvest-Hub/assets/145616414/63f0635a-8ae9-4d43-a503-1be8481234f0" width="300"/>
 
 ## Trending Products  
-<img src="https://github.com/sheisstarwithoutmoon/Harvest-Hub/assets/145616414/d2c6393d-efaa-4477-91ac-c4b4299c2fa3" width="500"/>
+<img src="https://github.com/sheisstarwithoutmoon/Harvest-Hub/assets/145616414/d2c6393d-efaa-4477-91ac-c4b4299c2fa3" width="300"/>
 
 ## Service Screen  
-<img src="https://github.com/sheisstarwithoutmoon/Harvest-Hub/assets/145616414/d5e0f4a6-f022-4ae0-be53-5b5f82fae233" width="500"/>
+<img src="https://github.com/sheisstarwithoutmoon/Harvest-Hub/assets/145616414/d5e0f4a6-f022-4ae0-be53-5b5f82fae233" width="300"/>
 
 ## Cart  
-<img src="https://github.com/sheisstarwithoutmoon/Harvest-Hub/assets/145616414/22fb34c9-fb25-443c-82d8-0c1e63596454" width="500"/>
+<img src="https://github.com/sheisstarwithoutmoon/Harvest-Hub/assets/145616414/22fb34c9-fb25-443c-82d8-0c1e63596454" width="300"/>
 
 ## Tracking nearest equipment location  
-<img src="https://github.com/sheisstarwithoutmoon/Harvest-Hub/assets/145616414/4d61b034-ecbf-48e4-a5da-87ce33691f83" width="500"/>
+<img src="https://github.com/sheisstarwithoutmoon/Harvest-Hub/assets/145616414/4d61b034-ecbf-48e4-a5da-87ce33691f83" width="300"/>
 
 ## Multilingual  
-<img src="https://github.com/sheisstarwithoutmoon/Harvest-Hub/assets/145616414/4e11bc41-bebd-4f1e-8d91-5decc90ccfa4" width="500"/>
+<img src="https://github.com/sheisstarwithoutmoon/Harvest-Hub/assets/145616414/4e11bc41-bebd-4f1e-8d91-5decc90ccfa4" width="300"/>
 
 
 
